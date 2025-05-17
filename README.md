@@ -1,1 +1,3 @@
-# STQD6324-Assignment-1
+# STQD6324-Assignment-1-Fake and Real News Analysis
+# Nowadays, with the rapid development of multimedia, news is everywhere. However, fake news has also increased significantly for various purposes, deeply misleading people. Many news stories are manipulated by the media, making it difficult to distinguish between truth and falsehood.
+# To analyze the underlying characteristics of real and fake news, and to further explore my personal interest in the field of text analysis, I have specifically chosen the Fake and Real News Dataset from Kaggle. Data Source: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?resource=download
